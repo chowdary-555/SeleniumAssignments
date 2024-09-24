@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-24T10:09:38 IST" name="Default suite" finished-at="2024-09-24T10:09:51 IST" duration-ms="13006">
+    <groups>
+    </groups>
+    <test started-at="2024-09-24T10:09:38 IST" name="Default test" finished-at="2024-09-24T10:09:51 IST" duration-ms="13006">
+      <class name="PageObjectModel.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:PageObjectModel.LoginPageTest@41d477ed]" started-at="2024-09-24T10:09:38 IST" name="setup" finished-at="2024-09-24T10:09:47 IST" duration-ms="9151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateUrl()[pri:1, instance:PageObjectModel.LoginPageTest@41d477ed]" started-at="2024-09-24T10:09:47 IST" name="validateUrl" finished-at="2024-09-24T10:09:48 IST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUrl -->
+        <test-method signature="validateTitle()[pri:2, instance:PageObjectModel.LoginPageTest@41d477ed]" started-at="2024-09-24T10:09:48 IST" name="validateTitle" finished-at="2024-09-24T10:09:48 IST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitle -->
+        <test-method signature="validateLogin()[pri:3, instance:PageObjectModel.LoginPageTest@41d477ed]" started-at="2024-09-24T10:09:48 IST" name="validateLogin" finished-at="2024-09-24T10:09:51 IST" duration-ms="3710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogin -->
+      </class> <!-- PageObjectModel.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
